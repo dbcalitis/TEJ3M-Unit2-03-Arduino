@@ -5,7 +5,6 @@ Turns on an LED for one second, then off for one second, repeatedly.
 
 Created by: Daria Bernice Calitis
 Created on: Feb 2022
-
 */
 
 int pin4 = 4;
